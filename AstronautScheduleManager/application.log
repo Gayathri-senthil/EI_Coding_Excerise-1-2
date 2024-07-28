@@ -1,0 +1,12 @@
+2024-07-28 11:59:11 - Task added: 09:00 - 02:00: studing [High] 
+2024-07-28 12:00:08 - Task added: 02:00 - 03:00: lunch [Medium] 
+2024-07-28 12:00:59 - Error: Task not found - lunch break
+2024-07-28 12:01:19 - Task completed: studing
+2024-07-28 12:01:29 - Task removed: studing
+2024-07-28 12:09:33 - Task added: 09:00 - 10:00: breakfast [High] 
+2024-07-28 12:09:46 - Task added: 10:00 - 12:00: Studing [High] 
+2024-07-28 12:10:04 - Task added: 12:00 - 12:30: Snack [Low] 
+2024-07-28 12:10:17 - Task added: 1:00 - 2:00: lunch [Medium] 
+2024-07-28 12:10:38 - Error: Task not found - snack
+2024-07-28 12:10:47 - Error: Task not found - Snacks
+2024-07-28 12:10:59 - Task removed: Snack
